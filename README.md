@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm Krishna Varshith</h1>
 
-<!--
-**kvarshith11-ops/kvarshith11-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer | AI Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Hyderabad, India
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building AI-powered applications using <strong>Large Language Models (LLMs)</strong>, <strong>Agentic AI</strong>, and <strong>Retrieval-Augmented Generation (RAG)</strong>, with a focus on scalable cloud deployment, observability, and production-ready AI systems.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-varshith-5a9b77207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
